@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 etim etim 4096 Jul 11 03:43 .
+drwxrwxr-x 6 etim etim 4096 Jul 10 13:02 ..
+-rwx------ 1 etim etim   32 Jul 10 16:46 0-hello_world
+-rwx------ 1 etim etim   28 Jul 10 20:24 1-confused_smiley
+-rwxrw-r-- 1 etim etim   28 Jul 10 18:32 2-hellofile
+-rwx------ 1 etim etim   39 Jul 10 18:37 3-twofiles
+-rwx------ 1 etim etim   35 Jul 10 18:44 4-lastlines
+-rwx------ 1 etim etim   35 Jul 10 18:47 5-firstlines
+-rwx------ 1 etim etim   40 Jul 10 20:31 6-third_line
+-rwx------ 1 etim etim   78 Jul 10 21:27 7-file
+-rwx------ 1 etim etim   36 Jul 11 03:42 8-cwd_state
+-rw-rw-r-- 1 etim etim   12 Jul 10 21:27 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 etim etim    0 Jul 11 03:43 ls_cwd_content
+-rw-rw-r-- 1 etim etim   29 Jul 10 13:04 README.md
